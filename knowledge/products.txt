@@ -1,0 +1,25 @@
+ShopEasy Product Catalog:
+
+1. Wireless Noise-Cancelling Headphones
+   - Price: $99.99
+   - Brand: AudioPro
+   - Colors: Black, White
+   - Battery: 30 hours
+   - Warranty: 1 year
+
+2. Blue Cotton T-Shirt
+   - Price: $19.99
+   - Sizes: S, M, L, XL
+   - Material: 100% organic cotton
+   - Colors: Blue, Black, White
+
+3. Running Shoes
+   - Price: $59.99
+   - Sizes: 7 to 12
+   - Material: Breathable mesh
+   - Colors: Black, Red, Grey
+
+4. Wireless Mouse
+   - Price: $25.99
+   - Battery: 6 months
+   - Connectivity: 2.4GHz USB receiver

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ShopEasy Support</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="chat-container">
+        <!-- হেডার -->
+        <header class="chat-header">
+            <div class="header-info">
+                <div class="avatar">🛍️</div>
+                <div>
+                    <h1>ShopEasy Support</h1>
+                    <p>We're here to help you 24/7</p>
+                </div>
+            </div>
+        </header>
+
+        <!-- চ্যাট বডি -->
+        <main class="chat-body" id="chatBody">
+            <div class="message bot-message">
+                <div class="bubble">
+                    Hello! 👋 Welcome to ShopEasy. How can I help you today?
+                </div>
+            </div>
+        </main>
+
+        <!-- ইনপুট এরিয়া -->
+        <footer class="chat-footer">
+            <form id="chatForm">
+                <input type="text" id="userInput" placeholder="Type your message..." autocomplete="off" required>
+                <button type="submit" id="sendBtn">Send</button>
+            </form>
+        </footer>
+    </div>
+
+    <script src="/static/script.js"></script>
+</body>
+</html>

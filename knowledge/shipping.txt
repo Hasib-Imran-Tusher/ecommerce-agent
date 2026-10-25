@@ -1,0 +1,6 @@
+ShopEasy Shipping Information:
+- Standard delivery takes 3-5 business days.
+- Express delivery takes 1-2 business days (extra $10).
+- Free shipping for orders over $50.
+- Flat $5 shipping fee for orders under $50.
+- We currently ship only within the country (no international shipping).
