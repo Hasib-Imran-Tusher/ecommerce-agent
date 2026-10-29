@@ -118,7 +118,8 @@ def generate_with_fallback(contents, config):
         return response
 
 
-app.post("/chat")
+
+@app.post("/chat")
 def chat_with_bot(request: ChatRequest):
     session_id = request.session_id
     user_message = request.message
